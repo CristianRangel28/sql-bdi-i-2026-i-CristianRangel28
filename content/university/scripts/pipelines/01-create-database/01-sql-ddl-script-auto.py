@@ -13,7 +13,9 @@ import argparse
 # ============================================
 
 SQL_FILES = [
-    '02-create-table.sql'
+    '01-create-database.sql',
+    '02-create-table.sql',
+    '03-alter-tables.sql'
 ]
 
 # ============================================
