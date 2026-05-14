@@ -187,34 +187,4 @@ INSERT INTO university.classrooms (name, building_id) VALUES
 ('CC205', 19),
 ('CC206', 19),
 ('CC207', 19),
-('CC208', 19);
-
-
--- NEW INSERT
-
-INSERT INTO university.classrooms (classroom_id, name, building_id) VALUES
-(1, 'Lab-101', 1),
-(2, 'Lab-102', 1),
-(3, 'Aula 103', 1),
-(4, 'Lab-201', 1),
-(5, 'Lab-202', 1),
-(6, 'Lab-203', 1),
-(7, 'Lab-101', 2),
-(8, 'Lab-102', 2),
-(9, 'Sala 201', 2),
-(10, 'Lab-202', 2),
-(11, 'Lab-301', 2),
-(12, 'Aula 101', 3),
-(13, 'Aula 102', 3),
-(14, 'Aula 201', 3),
-(15, 'Aula 202', 3),
-(16, 'Aula 301', 3),
-(17, 'Aula 302', 3),
-(18, 'Sala 101', 4),
-(19, 'Aula 102', 4),
-(20, 'Aula 201', 4),
-(21, 'Sala 202', 4),
-(22, 'Lab-PC 1', 5),
-(23, 'Sala TIC 2', 5),
-(24, 'Sala TIC 3', 5),
-(25, 'Sala TIC 4', 5);
+('CC208', 19); 

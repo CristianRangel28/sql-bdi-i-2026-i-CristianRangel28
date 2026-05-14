@@ -43,4 +43,4 @@ INSERT INTO university.programs (name, faculty_id) VALUES
 ('Nutrición y Dietética', 7),
 ('Psicología', 7),
 ('Programa Educación Continua Premédico', 7),
-('Terapia Ocupacional', 7);
+('Terapia Ocupacional', 7); 

@@ -32,4 +32,4 @@ INSERT INTO university.programs_students (
 (17, 27, 4),
 (9, 28, 8),
 (7, 29, 3),
-(19, 30, 8);
+(19, 30, 8); 

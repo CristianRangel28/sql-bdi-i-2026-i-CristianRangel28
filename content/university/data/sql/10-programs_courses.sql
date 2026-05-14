@@ -165,4 +165,4 @@ INSERT INTO university.programs_courses (
 (20, 57, 1),
 (20, 58, 1),
 (20, 59, 2),
-(20, 60, 2);
+(20, 60, 2); 

@@ -115,4 +115,4 @@ INSERT INTO university.enrollments (
 (15, 30),
 (22, 30),
 (7, 30),
-(17, 30);
+(17, 30); 
